@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIGNSTREAM-DATABASE DATABASE-VERSION="1.0" SIGNSTREAM-VERSION="2" SOURCE="">
+  <DISTRIBUTOR>Carol Neidle, American Sign Language Linguistic Research Project, Boston University, Boston, MA</DISTRIBUTOR>
+  <AUTHOR>Carol Neidle, Robert G. Lee, Michael Schlang, Quinn Duffy.  We gratefully acknowledge assistance from Ben Bahan, Fran Conlin, Lana Cook, Carla Dasilva, Sarah Fish, Dana Schlang, Vassilis Athitsos, and Stan Sclaroff.</AUTHOR>
+  <PARTICIPANTS>
+    <PARTICIPANT AGE="22" GENDER="male" ID="0" LABEL="Mike" LANGUAGE="ASL" NAME="Michael Eric Schlang">
+      <BACKGROUND/>
+    </PARTICIPANT>
+  </PARTICIPANTS>
+  <CODING-SCHEME>
+    <FIELD CONSTRAINT="free-text" ID="28" LABEL="LDC POS" NAME="LDC POS">
+      <VALUE ID="0" LABEL="CC" NAME="Coord Conj"/>
+      <VALUE ID="1" LABEL="CD" NAME="Cardinal Number"/>
+      <VALUE ID="2" LABEL="DT" NAME="Determiner"/>
+      <VALUE ID="3" LABEL="EX" NAME="Existential there"/>
+      <VALUE ID="4" LABEL="FW" NAME="Foreign Word"/>
+      <VALUE ID="5" LABEL="IN" NAME="Prep or Sub Conj"/>
+      <VALUE ID="6" LABEL="JJ" NAME="Adjective"/>
+      <VALUE ID="7" LABEL="JJR" NAME="Adjective, comp"/>
+      <VALUE ID="8" LABEL="JJS" NAME="Adjective, superl"/>
+      <VALUE ID="9" LABEL="LS" NAME="List item marker"/>
+      <VALUE ID="10" LABEL="MD" NAME="Modal"/>
+      <VALUE ID="11" LABEL="NN" NAME="Noun, sg/mass"/>
+      <VALUE ID="12" LABEL="NNS" NAME="Noun, plural"/>
+      <VALUE ID="13" LABEL="NNP" NAME="Proper Noun, sg"/>
+      <VALUE ID="14" LABEL="NNPS" NAME="Proper Noun, pl"/>
+      <VALUE ID="15" LABEL="PDT" NAME="Predeterminer"/>
+      <VALUE ID="16" LABEL="POS" NAME="Possessive ending"/>
+      <VALUE ID="17" LABEL="PRP" NAME="Personal Pronoun"/>
+      <VALUE ID="18" LABEL="PRP$" NAME="Possessive Pronoun"/>
+      <VALUE ID="19" LABEL="RB" NAME="Adverb"/>
+      <VALUE ID="20" LABEL="RBR" NAME="Adverb, comp"/>
+      <VALUE ID="21" LABEL="RBS" NAME="Adverb, superl"/>
+      <VALUE ID="6" LABEL="RP" NAME="Particle"/>
+      <VALUE ID="23" LABEL="SYM" NAME="Symbol"/>
+      <VALUE ID="24" LABEL="TO" NAME="to"/>
+      <VALUE ID="25" LABEL="UH" NAME="Interjection"/>
+      <VALUE ID="26" LABEL="VB" NAME="Verb, base form"/>
+      <VALUE ID="27" LABEL="VBD" NAME="Verb, past tense"/>
+      <VALUE ID="28" LABEL="VBG" NAME="Verb, gerund/pres part"/>
+      <VALUE ID="29" LABEL="VBN" NAME="Verb, past part"/>
+      <VALUE ID="30" LABEL="VBP" NAME="Verb, non-3p sg pres"/>
+      <VALUE ID="31" LABEL="VBZ" NAME="Verb, 3p sg pres"/>
+      <VALUE ID="32" LABEL="WDT" NAME="Wh-determiner"/>
+      <VALUE ID="33" LABEL="WP" NAME="Wh-pronoun"/>
+      <VALUE ID="34" LABEL="WP$" NAME="Possessive wh-pronoun"/>
+      <VALUE ID="35" LABEL="WRB" NAME="Wh-adverb"/>
+      <VALUE ID="400000" NAME="HOLD"/>
+      <VALUE ID="400001" NAME="ONSET"/>
+      <VALUE ID="400002" NAME="OFFSET"/>
+    </FIELD>
+  </CODING-SCHEME>
+</SIGNSTREAM-DATABASE>

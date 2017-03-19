@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIGNSTREAM-DATABASE DATABASE-VERSION="1.0" SIGNSTREAM-VERSION="2" SOURCE="">
+  <DISTRIBUTOR>Carol Neidle, American Sign Language Linguistic Research Project, Boston University, Boston, MA</DISTRIBUTOR>
+  <AUTHOR>Carol Neidle, Robert G. Lee, Michael Schlang, Quinn Duffy.  We gratefully acknowledge assistance from Ben Bahan, Fran Conlin, Lana Cook, Carla Dasilva, Sarah Fish, Dana Schlang, Vassilis Athitsos, and Stan Sclaroff.</AUTHOR>
+  <PARTICIPANTS>
+    <PARTICIPANT AGE="22" GENDER="male" ID="0" LABEL="Mike" LANGUAGE="ASL" NAME="Michael Eric Schlang">
+      <BACKGROUND/>
+    </PARTICIPANT>
+    <PARTICIPANT AGE="36" GENDER="male" ID="0" LABEL="Christian" LANGUAGE="ASL" NAME="Christian Vogler">
+    </PARTICIPANT>
+  </PARTICIPANTS>
+</SIGNSTREAM-DATABASE>
